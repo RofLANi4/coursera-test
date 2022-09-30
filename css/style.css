@@ -1,0 +1,22 @@
+div {
+}
+
+.bigred {
+  font-size: 20px;
+  color: red;
+}
+
+span.bigred {
+  font-size: 20px;
+  color: rgb(0, 111, 11);
+}
+
+.bigred span {
+  font-size: 20px;
+  color: rgb(31, 1, 140);
+}
+
+p.bigred {
+  font-size: 20px;
+  color: rgb(7, 198, 201);
+}
